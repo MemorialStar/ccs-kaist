@@ -5,8 +5,7 @@ Developed and Maintained by `CHAEMIN LIM`
 
 ## Introduction
 
-kaist-world is repository of killerwhalee's personal website.
-You can see website available on https://kaist-world.net/
+fill here.
 
 ## Contact Us
 
